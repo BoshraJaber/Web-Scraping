@@ -8,3 +8,8 @@
 * It is not illegal unless it is mentioned in the term of services of the website
 
 ![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/11/Untitled-1-768x183.jpg)
+
+# Library used:
+* bs4
+* beautiful soup from bs4
+
