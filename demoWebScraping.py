@@ -55,7 +55,7 @@ def clean_job(dirty_job):
 ######## step 3 ###############
 cleaned_jobs = [clean_job(job) for job in jobs]
 
-print(cleaned_jobs)
+# print(cleaned_jobs)
 
 import json
 
