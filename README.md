@@ -13,3 +13,14 @@
 * bs4
 * beautiful soup from bs4
 
+## how to asset if a website is good for scraping or not 
+1. if there is a repeated info then It is better to web scrap it then to copy and paste it
+
+## Steps to scraping:
+1. Get the HTML: define the website and its elements
+ * send http request in python
+2. Parse HTML for element with its class
+ * HTML parser (parsing is making sense of something)
+3. Get text from h2 saved as title
+4. Get text from div
+5. save it as description
