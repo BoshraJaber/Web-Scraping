@@ -93,7 +93,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "88826a3fcc3af35ed4a801ef4365839892fd611de029c11b42f12afa957c6048"
+content-hash = "1942a6064174f0b059be883a3fc67908216912cd903ffc9520db3ec82026385b"
 
 [metadata.files]
 beautifulsoup4 = [
